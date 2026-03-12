@@ -17,7 +17,7 @@ Il progetto è nato per simulare l'interazione tipica di un bot informativo, tra
 * **Type Safety:** Uso rigoroso di interfacce TypeScript per garantire la consistenza dei dati tra Front e Back.
 * **CORS Management:** Configurazione sicura del middleware per la comunicazione cross-origin.
 
-* Sviluppi Futuri
+* ## Sviluppi Futuri
 * [ ] Implementazione di una barra di ricerca per filtrare le notizie.
 
 * [ ] Sistema di "comandi" testuali stile Bot di Discord (es: /status).
